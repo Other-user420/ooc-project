@@ -350,7 +350,7 @@ const Save = () => {
 
               <li>
                 <a
-                  href="/register"
+                  href="/form"
                   title=""
                   className="flex text-base text-black transition-all duration-200 hover:text-blue-600 focus:text-blue-600"
                 >
@@ -361,7 +361,7 @@ const Save = () => {
 
               <li>
                 <a
-                  href="register"
+                  href="/form"
                   title=""
                   className="flex text-base text-black transition-all duration-200 hover:text-blue-600 focus:text-blue-600"
                 >
