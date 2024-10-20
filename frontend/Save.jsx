@@ -167,7 +167,7 @@ const Save = () => {
               <div className="article-card">
                 <div className="content">
                   <p className="date"></p>
-                  <p className="title">Technician</p>
+                  <p className="title">Electrician</p>
                 </div>
                 <a href="/electrician">
                   <img
